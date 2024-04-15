@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Beatstreet",
+    "about": "Free music streaming site built using React and Node js",
+    "github": "https://github.com/skgupta507/Beatstreet",
+    "live": "https://beatstreet.netlify.app/",
+    "tools": ["React", "Node js", "Tailwind", "API"],
+    "image": "./images/beatstreet.png"
+  },
+  {
+    "title": "Cinemaa",
+    "about": "Stream latest Movies and TV shows. Search moives, TV shows and actors",
+    "github": "https://github.com/skgupta507/CINEMAA",
+    "live": "https://cinemaa.vercel.app",
+    "tools": ["Next js", "Tailwind", "Node js", "API"],
+    "image": "./images/Cinemaa.jpg"
+  },
+  {
+    "title": "Quiz",
+    "about": "Play Quiz from different available category",
+    "github": "https://github.com/skgupta507/quiz-app-using-react",
+    "live": "https://quizplayer.netlify.app/",
+    "tools": ["HTML", "Tailwind", "React", "API"],
+    "image": "./images/Quiz.jpg"
+  },
+  {
+    "title": "Cocktail DB",
+    "about": "Search about various cocktails and their recipes",
+    "github": "https://github.com/skgupta507/cocktails-react",
+    "live": "https://master--curious-heliotrope-7c93c4.netlify.app/",
+    "tools": ["HTML", "Tailwind", "React", "API"],
+    "image": "./images/Cocktail.jpg"
+  },
+  {
+    "title": "Password Generator",
+    "about": "Weak, Medium and Strong password Generator",
+    "github": "https://github.com/skgupta507/password-generator-react",
+    "live": "https://serene-shortbread-4ee0c6.netlify.app/",
+    "tools": ["HTML", "Tailwind", "React"],
+    "image": "./images/PasswordGenerator.jpg"
+  },
+  {
+    "title": "Static Job Listing",
+    "about": "Filter job from the list of jobs based on filter tag",
+    "github": "https://github.com/skgupta507/static-job-listings-usng-react",
+    "live": "https://63856a746260b021be36f1c9--coruscating-griffin-f26886.netlify.app/",
+    "tools": ["HTML", "Tailwind", "React"],
+    "image": "./images/StaticJoblistingSearch.jpg"
+  },
+
+  {
+    "title": "Income Tracker",
+    "about": "Tracker all expenses by making a list of expenses",
+    "github": "https://github.com/skgupta507/income-tracker",
+    "live": "https://bright-biscotti-968687.netlify.app/",
+    "tools": ["HTML", "Tailwind", "React"],
+    "image": "./images/IncomeTracker.jpg"
+  },
+
+  {
+    "title": "Advice Generator",
+    "about": "Generate a new advice everytime the button is clicked",
+    "github": "https://github.com/skgupta507/Advice-Generator",
+    "live": "https://chic-pavlova-2c1f68.netlify.app/",
+    "tools": ["HTML", "CSS", "Vanilla JavaScript", "API"],
+    "image": "./images/AdviceGenerator.jpg"
+  },
+  {
+    "title": "Ecommerce Product Main Page",
+    "about": "Add, remove item from cart, view product photos",
+    "github": "https://github.com/skgupta507/ecommerce-product-main-page",
+    "live": "https://teal-chebakia-560259.netlify.app/",
+    "tools": ["HTML", "CSS", "Vanilla JavaScript"],
+    "image": "./images/EcommerceProductPage.jpg"
+  },
+  {
+    "title": "GitHub User Seach",
+    "about": "Seach details about Github users. Dark and light theme included.",
+    "github": "https://github.com/skgupta507/GitHub-user-search",
+    "live": "https://seachaboutgithubusers.netlify.app/",
+    "tools": ["HTML", "CSS", "Vanilla JavaScript", "API"],
+    "image": "./images/GitHubUserSearch.jpg"
+  },
+  {
+    "title": "Tip Calculator",
+    "about": "Bill splitter and Tip calulator",
+    "github": "https://github.com/skgupta507/Tip-Calculator",
+    "live": "https://chipper-narwhal-b02b4f.netlify.app/",
+    "tools": ["HTML", "CSS", "Vanilla JavaScript"],
+    "image": "./images/StaticJoblistingSearch.jpg"
+  },
+  {
+    "title": "Form Validation",
+    "about": "Form validation that includes password, email, ",
+    "github": "https://github.com/skgupta507/Form-validation",
+    "live": "https://majestic-lolly-9bcf97.netlify.app/",
+    "tools": ["HTML", "CSS", "Vanilla JavaScript"],
+    "image": "./images/FormValidation.jpg"
+  }
+]
