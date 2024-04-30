@@ -1,6 +1,6 @@
 import React from "react";
 import mypic from "../assets/mypic.jpeg";
-import myResume from "../assets/akashsharma.pdf";
+import myResume from "../assets/Akashsharma.pdf";
 import Info from "./Info";
 import { Zoom } from "react-awesome-reveal";
 
