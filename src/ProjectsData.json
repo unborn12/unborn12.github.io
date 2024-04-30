@@ -7,14 +7,7 @@
     "tools": ["React", "Node js", "Tailwind", "API"],
     "image": "./images/beatstreet.png"
   },
-  {
-    "title": "Cinemaa",
-    "about": "Stream latest Movies and TV shows. Search moives, TV shows and actors",
-    "github": "https://github.com/skgupta507/CINEMAA",
-    "live": "https://cinemaa.vercel.app",
-    "tools": ["Next js", "Tailwind", "Node js", "API"],
-    "image": "./images/Cinemaa.jpg"
-  },
+
   {
     "title": "Quiz",
     "about": "Play Quiz from different available category",
