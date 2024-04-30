@@ -25,14 +25,6 @@
     "image": "./images/Cocktail.jpg"
   },
   {
-    "title": "Password Generator",
-    "about": "Weak, Medium and Strong password Generator",
-    "github": "https://github.com/skgupta507/password-generator-react",
-    "live": "https://serene-shortbread-4ee0c6.netlify.app/",
-    "tools": ["HTML", "Tailwind", "React"],
-    "image": "./images/PasswordGenerator.jpg"
-  },
-  {
     "title": "Static Job Listing",
     "about": "Filter job from the list of jobs based on filter tag",
     "github": "https://github.com/skgupta507/static-job-listings-usng-react",
@@ -82,12 +74,4 @@
     "tools": ["HTML", "CSS", "Vanilla JavaScript"],
     "image": "./images/StaticJoblistingSearch.jpg"
   },
-  {
-    "title": "Form Validation",
-    "about": "Form validation that includes password, email, ",
-    "github": "https://github.com/skgupta507/Form-validation",
-    "live": "https://majestic-lolly-9bcf97.netlify.app/",
-    "tools": ["HTML", "CSS", "Vanilla JavaScript"],
-    "image": "./images/FormValidation.jpg"
-  }
 ]
